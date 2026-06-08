@@ -1,4 +1,6 @@
-  <div align="center"> stamp wall yay
+<div align="center">  ㅤㅤㅤㅤㅤ
+    <div align="center"> ㅤㅤㅤㅤㅤ
+<div align="center"> <img width="64" height="64" alt="tumblr_789f685e95b8c58e304e615e621ccf0b_2e1965d8_75" src="https://github.com/user-attachments/assets/f7d42247-43d2-433c-b594-df3c3f0196e8" />
         <div align="center">  ㅤㅤㅤㅤㅤ
     <div align="center"> ㅤㅤㅤㅤㅤ
         <div align="center"> ㅤㅤㅤ
