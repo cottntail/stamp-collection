@@ -1,10 +1,6 @@
 <div align="center">  ㅤㅤㅤㅤㅤ
     <div align="center"> ㅤㅤㅤㅤㅤ
-<div align="center"> <img width="64" height="64" alt="tumblr_789f685e95b8c58e304e615e621ccf0b_2e1965d8_75" src="https://github.com/user-attachments/assets/f7d42247-43d2-433c-b594-df3c3f0196e8" />
-        <div align="center">  ㅤㅤㅤㅤㅤ
-    <div align="center"> ㅤㅤㅤㅤㅤ
-        <div align="center"> ㅤㅤㅤ
-    <div align="center"> ㅤㅤㅤㅤ
+<div align="center"> <img width="64" height="64" alt="tumblr_789f685e95b8c58e304e615e621ccf0b_2e1965d8_75" src="https://github.com/user-attachments/assets/f7d42247-43d2-433c-b594-df3c3f0196e8" />ㅤㅤㅤ
 <div align="center"> <img width="90" height="50" alt="tumblr_1004995cae28c6e27e1a5f300c5dfa12_406adcc7_250" src="https://github.com/user-attachments/assets/8d708bf2-e347-4e99-9be9-f020fce4cd7b" /> ㅤㅤㅤㅤㅤ
 <img width="90" height="50" alt="tumblr_41db62ca7ebb86ea350b197712dd0f41_336614bb_500" src="https://github.com/user-attachments/assets/6447be98-cb72-4dc3-a9bb-12fd72d5b3e5" />
 <img width="90" height="50<img width="109" height="66" alt="tumblr_687a8fd5a316e02b058218f1a1223410_a10489f8_250" src="https://github.com/user-attachments/assets/906572ee-5640-4eea-b8d3-063ee87b7206" />
