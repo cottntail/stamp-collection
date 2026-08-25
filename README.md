@@ -768,10 +768,6 @@
         <div align="center"> ㅤㅤㅤ
     <div align="center"> ㅤ
 
-<img width="40" height="40" alt="tumblr_9a02b99a68430d2b529afd002b556da1_a4f1eb5a_75" src="https://github.com/user-attachments/assets/359e1353-8c94-4f97-a542-0b232a9eba08" />
-<img width="40" height="40" alt="tumblr_cf71db9dec05fd9e69eb6dbea7972a3d_9b52eeac_75" src="https://github.com/user-attachments/assets/018c3ab2-7673-438f-a6f7-f224062b3a1a" />
-<img width="40" height="40" alt="tumblr_cd0d84e90f0e856434537dd438c1b588_0ab772c3_75" src="https://github.com/user-attachments/assets/b1a27756-d0ee-45de-871c-c9acc5277c70" />
-<img width="40" height="40" alt="tumblr_b07f512b4deb2c05e91df74a5f625eec_936b26c7_75" src="https://github.com/user-attachments/assets/021e324f-a35f-4fbc-9dd2-db572b598972" />
 <img width="40" height="40" alt="tumblr_91c6f8a0498ebe77213175a39451fb0a_d03de39d_75" src="https://github.com/user-attachments/assets/909c7c87-f957-426c-bcd6-40e41c62bba9" />
 <img width="40" height="40" alt="tumblr_501ba5cad6de644cfebc3d36c817b611_a8aadfe4_75" src="https://github.com/user-attachments/assets/840e1bf4-3e8e-4f95-b917-ee78445f897b" />
 <img width="40" height="40" alt="tumblr_39e5c85f2d2f30ca291e12e06f34c7ba_f525ffd3_75" src="https://github.com/user-attachments/assets/3d8b2f55-713f-4355-b967-dc9a13206467" />
