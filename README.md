@@ -345,7 +345,6 @@
 <img width="99" height="56" alt="tumblr_172294785888dd61645a3211934acda7_221b4993_100" src="https://github.com/user-attachments/assets/0d281eea-a657-4dc0-9338-8f64edc6ff82" />
 <img width="99" height="60" alt="tumblr_26b129b9d5c387cc9a8e260a88ecaf0f_16c1848d_100" src="https://github.com/user-attachments/assets/7c3ec555-0481-42e8-b929-546137990ea9" />
 <img width="99" height="56" alt="tumblr_50a5f4424fe47e29b168fb1b7d5048a2_57c70ce0_100" src="https://github.com/user-attachments/assets/b77137ce-fb5f-42e0-af67-af0ba6283402" />
-<img width="99" height="56" alt="tumblr_ffb667e568e93543341be0054d2932d9_ee2bc9b3_250" src="https://github.com/user-attachments/assets/9f00a8f8-2b8e-4401-af3e-a0e4e4256d6d" />
 <img width="99" height="56" alt="tumblr_8704d701a26e30a2d99820082374a35c_1da36eb8_75" src="https://github.com/user-attachments/assets/7ba16f38-abe7-4089-a111-78c225c477e2" />
 <div align="center">  ㅤㅤㅤㅤㅤ
     <div align="center"> ㅤㅤㅤㅤㅤ
