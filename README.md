@@ -338,7 +338,6 @@
 <img width="99" height="56" alt="tumblr_f94293fa52201e0884f02d871754d8e9_eab0e0bf_100" src="https://github.com/user-attachments/assets/7dab16fa-5148-4e61-880e-c1c388a589f0" />
 <img width="99" height="55" alt="tumblr_0950de11804ec0fe9f7b8abd97ad0e21_f9f7de69_100" src="https://github.com/user-attachments/assets/e6893fed-47b1-4364-a9e8-4671e5253abf" />
 <img width="99" height="56" alt="tumblr_d177b2d6c588712a295d88fe8096280a_1a7a9f2e_100" src="https://github.com/user-attachments/assets/c88c09eb-1bb3-411e-b31f-2c1827709fab" />
-<img width="99" height="56" alt="tumblr_0a399b5d249393c8e9b18fca2339483c_72e3c74b_250" src="https://github.com/user-attachments/assets/a08c6b23-99db-4463-b22a-616b7531502b" />
 <img width="99" height="56" alt="tumblr_a438118f161bcc716c5c570a679e41e7_f1871d9b_250" src="https://github.com/user-attachments/assets/3e95dd27-7e2b-44d5-b00f-d4c694161ef9" />
 <img width="99" height="56" alt="tumblr_3b4dba87a58b057563c9f40d7aa535b0_55a0f379_100" src="https://github.com/user-attachments/assets/e50028e8-aeea-4313-b462-c9959a5ce502" />
 <img width="99" height="56" alt="tumblr_79ad4f39142b01f0835964449b3a7da4_50d7f6a7_100" src="https://github.com/user-attachments/assets/8ec87769-2ead-49a8-854f-9da3bd414356" />
