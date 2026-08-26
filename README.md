@@ -1,4 +1,3 @@
-<img width="20" height="20" alt="tumblr_d4e511786fde95bbcc988d1622bc23bb_e6b1a41d_75" src="https://github.com/user-attachments/assets/5d89c4d6-6285-4755-81a0-ddc5bf27aa0c" />
 
 
 <div align="center">  ㅤㅤㅤㅤㅤ
